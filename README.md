@@ -1,4 +1,4 @@
-# Servlet-JSP-MySite
+# Spring mini project
 It is a personal web site project using servlet and jsp.
 
 <h2>사용된 기술</h2>
